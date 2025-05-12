@@ -8,8 +8,6 @@ const twoSum = (nums, target) => {
             }
         }
     }
-
+    
     return groupNums;
 }
-
-console.log(twoSum([1, 1, 1, 1], 2));
